@@ -1,7 +1,24 @@
 import Notiflix from 'notiflix';
 import axios from 'axios';
+
+
+
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 const BASE_URL = 'https://pixabay.com/api/';
 const OPTIONS = 'image_type=photo&orientation=horizontal&safesearch=true&per_page=40'
