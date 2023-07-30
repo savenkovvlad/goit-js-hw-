@@ -8,18 +8,6 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 const BASE_URL = 'https://pixabay.com/api/';
 const OPTIONS = 'image_type=photo&orientation=horizontal&safesearch=true&per_page=40'
 const KEY ='38315175-abb8429954921ba34a6a526ed'
